@@ -12,8 +12,8 @@ public class ScoreInfo {
     @Override
     public String toString() {
         return "ScoreInfo{" +
-                "score=" + score +
-                ", student=" + student +
+                "score = " + score +
+                ", student = " + student +
                 '}';
     }
 }

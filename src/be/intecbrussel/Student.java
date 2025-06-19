@@ -23,8 +23,8 @@ public class Student extends Person{
     @Override
     public String toString() {
         return "Student{" +
-                "name='" + name + '\'' +
-                ", lastName='" + lastName + '\'' +
+                "name = '" + name + '\'' +
+                ", lastName = '" + lastName + '\'' +
                 '}';
     }
 }
